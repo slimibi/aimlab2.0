@@ -29,7 +29,6 @@ make run            # Build and run
 
 ## Gameplay
 - Navigate menu → select "PLAY" → 5-second countdown → 45-second session  
-- Hit targets: smaller targets = more points  
 - Scores automatically saved  
 
 ## Code Structure
@@ -41,4 +40,5 @@ make run            # Build and run
 
 ## License
 Educational use. Modify and distribute freely.
+
 
